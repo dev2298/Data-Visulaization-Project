@@ -1,2 +1,2 @@
-# Data-Visulaization-Project
-Developed for data visulaization project
+# DV-Project
+Developed for data visualization project
